@@ -1,0 +1,1 @@
+scp -r publish/ root@147.93.44.247:/opt/operator_portal_api_server
